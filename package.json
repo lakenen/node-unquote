@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/lakenen/node-unquote/issues"
   },
-  "homepage": "https://github.com/lakenen/node-unquote"
+  "homepage": "https://github.com/lakenen/node-unquote",
+  "keywords": [
+    "string",
+    "unquote",
+    "quotes"
+  ]
 }
