@@ -1,0 +1,14 @@
+{
+  "name": "unquote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*"
+  },
+  "author": "Cameron Lakenen <cameron@lakenen.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^2.13.4"
+  }
+}
