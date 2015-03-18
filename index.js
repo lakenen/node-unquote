@@ -1,6 +1,9 @@
 var reg = /[\'\"]/
 
 module.exports = function unquote(str) {
+  if (!str) {
+    return ''
+  }
   if (reg.test(str.charAt(0))) {
     str = str.substr(1)
   }

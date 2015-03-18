@@ -1,6 +1,6 @@
 # unquote
 
-Remove wrapping quotes from a string.
+Remove wrapping quotes from a string. Returns an empty string if the first arg is falsey.
 
 ## Installation
 
